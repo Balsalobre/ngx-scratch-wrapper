@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'lib-ngx-scratch',
+  selector: 'ngx-scratch',
   standalone: true,
   imports: [],
   template: `

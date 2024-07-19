@@ -29,7 +29,10 @@
     "@angular-devkit/build-angular": "^18.1.1",
     "@angular/cli": "^18.1.1",
     "@angular/compiler-cli": "^18.1.0",
+    "@types/fs-extra": "^11.0.4",
     "@types/jasmine": "~5.1.0",
+    "@types/node": "^20.14.11",
+    "fs-extra": "^11.2.0",
     "jasmine-core": "~5.1.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
@@ -38,6 +41,8 @@
     "karma-jasmine-html-reporter": "~2.1.0",
     "ng-packagr": "^18.1.0",
     "prettier": "^3.3.3",
+    "simple-git": "^3.25.0",
+    "ts-node": "^10.9.2",
     "typescript": "~5.5.2"
   }
 }

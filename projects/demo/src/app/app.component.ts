@@ -7,8 +7,7 @@ import { NgxScratchComponent } from 'ngx-scratch';
   standalone: true,
   imports: [RouterOutlet, NgxScratchComponent],
   template: ` <main class="main">
-    <div class="content">hello world</div>
-    <lib-ngx-scratch></lib-ngx-scratch>
+    <ngx-scratch></ngx-scratch>
   </main>`,
   styleUrl: './app.component.css',
 })
