@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   imports: [],
   template: `
     <p>
-      ngx-scratch works!
+      ngx-scratch works!!
     </p>
   `,
   styles: ``
