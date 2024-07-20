@@ -7,10 +7,11 @@ import { NgxScratchComponent } from 'ngx-scratch';
   standalone: true,
   imports: [RouterOutlet, NgxScratchComponent],
   template: ` <main class="main">
+    <h1>{{ title }}</h1>
     <ngx-scratch></ngx-scratch>
   </main>`,
   styleUrl: './app.component.css',
 })
 export class AppComponent {
-  title = 'demo';
+  title = 'OLE SCRATCH INTEGRATION';
 }
