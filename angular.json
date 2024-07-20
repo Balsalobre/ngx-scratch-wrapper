@@ -32,7 +32,7 @@
             "assets": [
               {
                 "glob": "**/*",
-                "input": "node_modules/ngx-scratch/public",
+                "input": "node_modules/ngx-scratch/assets",
                 "output": "/assets"
               }
             ]
